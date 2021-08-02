@@ -1,0 +1,30 @@
+.row #p1{
+    font-size: 55px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.row #p2 {
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+.row #d1 {
+    background-color: grey;
+    font-size: 22px;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+.row #d2 {
+
+    padding: 30px;
+    background-color:aqua;
+    font-size: 22px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.row#d3.l {
+  font-size: 40px;
+}
+

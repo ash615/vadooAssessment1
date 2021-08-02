@@ -1,0 +1,150 @@
+.carousel-item{
+    height: 508px;
+    width: 1300px;
+    margin-left: 50px;
+    margin-right: 60px;
+    background-color: aqua;
+    border-radius: 10px;
+    border: 2px solid red;
+
+}
+
+
+#img1{
+    width:128px;
+    height: 500px;
+    background-image: url("https://image.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/LCoTE2LsJYR3uATHdvhvmVXSZ29z2gmC/Thumbnails/LCoTE2LsJYR3uATHdvhvmVXSZ29z2gmC.0000000.jpg");
+    background-size: 100%;
+    background-position: center center;
+}
+
+#img1:hover{
+    background-image: url("https://vadooimages.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/LCoTE2LsJYR3uATHdvhvmVXSZ29z2gmC/HLS/thumbnail.gif");
+}
+
+
+
+
+#img2{
+    width:128px;
+    height: 500px;
+    background-image: url("https://image.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/BrC08KZOPy6FFUqCBi1vAdx8BuzQ9Md3/Thumbnails/BrC08KZOPy6FFUqCBi1vAdx8BuzQ9Md3.0000000.jpg");
+    background-size: 100%;
+    background-position: center center;
+}
+
+#img2:hover{
+    background-image: url("https://vadooimages.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/BrC08KZOPy6FFUqCBi1vAdx8BuzQ9Md3/HLS/thumbnail.gif");
+}
+
+
+
+
+#img3{
+    width:128px;
+    height: 500px;
+    background-image: url("https://image.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/MMgRvUeY0OKicCZDrmyQvRCKlIrdPAlf/Thumbnails/MMgRvUeY0OKicCZDrmyQvRCKlIrdPAlf.0000000.jpg");
+    background-size: 100%;
+    background-position: center center;
+}
+
+#img3:hover{
+    background-image: url("https://vadooimages.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/MMgRvUeY0OKicCZDrmyQvRCKlIrdPAlf/HLS/thumbnail.gif");
+}
+
+
+
+
+#img4{
+    width:128px;
+    height: 500px;
+    background-image: url("https://image.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/B5HUN52AFnM0mdMQeZkDE0euTz6Rmi6l/Thumbnails/B5HUN52AFnM0mdMQeZkDE0euTz6Rmi6l.0000000.jpg");
+    background-size: 100%;
+    background-position: center center;
+}
+
+#img4:hover{
+    background-image: url("https://vadooimages.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/B5HUN52AFnM0mdMQeZkDE0euTz6Rmi6l/HLS/thumbnail.gif");
+}
+
+
+
+
+#img5{
+    width:128px;
+    height: 500px;
+    background-image: url("https://image.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/OwoEblTZiwP65dEYKkaTpnOcHDwQQygv/Thumbnails/OwoEblTZiwP65dEYKkaTpnOcHDwQQygv.0000000.jpg");
+    background-size: 100%;
+    background-position: center center;
+}
+
+#img5:hover{
+    background-image: url("https://vadooimages.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/OwoEblTZiwP65dEYKkaTpnOcHDwQQygv/HLS/thumbnail.gif");
+}
+
+
+
+
+#img6{
+    width:128px;
+    height: 500px;
+    background-image: url("https://image.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/w8OBiu0IUDd2TuqhaBX0AnFfVLHWAMcC/Thumbnails/w8OBiu0IUDd2TuqhaBX0AnFfVLHWAMcC.0000000.jpg");
+    background-size: 100%;
+    background-position: center center;
+}
+
+#img6:hover{
+    background-image: url("https://vadooimages.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/w8OBiu0IUDd2TuqhaBX0AnFfVLHWAMcC/HLS/thumbnail.gif");
+}
+
+
+
+
+#img7{
+    width:128px;
+    height: 500px;
+    background-image: url("https://image.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/XBmD7pgH4MA8DNLQkyXN5OpHEp5kBzQf/Thumbnails/XBmD7pgH4MA8DNLQkyXN5OpHEp5kBzQf.0000000.jpg");
+    background-size: 100%;
+    background-position: center center;
+}
+
+#img7:hover{
+    background-image: url("https://vadooimages.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/XBmD7pgH4MA8DNLQkyXN5OpHEp5kBzQf/HLS/thumbnail.gif");
+}
+
+
+
+
+#img8{
+    width:128px;
+    height: 500px;
+    background-image: url("https://image.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/rWLIfFKhtwjorOuOTOJ6f4Om80N6mSWI/Thumbnails/rWLIfFKhtwjorOuOTOJ6f4Om80N6mSWI.0000000.jpg");
+    background-size: 100%;
+    background-position: center center;
+}
+
+#img8:hover{
+    background-image: url("https://vadooimages.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/rWLIfFKhtwjorOuOTOJ6f4Om80N6mSWI/HLS/thumbnail.gif");
+}
+
+
+
+
+#img9{
+    width:128px;
+    height: 500px;
+    background-image: url("https://image.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/r5WatS8KjRLXj1x88FBbLEdziWMhCj0I/Thumbnails/r5WatS8KjRLXj1x88FBbLEdziWMhCj0I.0000000.jpg");
+    background-size: 100%;
+    background-position: center center;
+}
+
+#img9:hover{
+    background-image: url("https://vadooimages.vadoo.tv/Anil_MfHFF4Gj9yzGxigIWsh9t0yt6V4/videos/r5WatS8KjRLXj1x88FBbLEdziWMhCj0I/HLS/thumbnail.gif");
+}
+
+
+
+
+
+
+
